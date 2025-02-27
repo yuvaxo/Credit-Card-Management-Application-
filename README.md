@@ -1,17 +1,12 @@
-# CRED-T8
-Team ID: CRED-T8 | Team Members: Narendra Manglani &amp; Abhishek Ranjan
-
----
+# CREDIT CARD MANAGEMENT APPLICATION 
 
 ## Table of Contents
 
 - [Objective](#objective)
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Features](#features)
 - [Built With(Tech Stack)](#built-with)
 - [How to Get Started](#how-to-get-started)
-- [Deployed Links](#deployed-links)
 - [Developed By](#developed-by)
 
 ---
@@ -28,15 +23,6 @@ As an externship program we had provided a project to make a Credit Card Managem
 
 ---
 
-### Demo
-
-Below is a demo of final project.
-
-- [Demo Link](https://www.youtube.com/watch?v=3rGtfzDxl0A)
-
-- GIF  <br/> <br/> ![](./assets/demo.gif)
-
----
 
 ### Features
 
@@ -137,19 +123,6 @@ npm run client - to run client standalone.
 
 ---
 
-### Deployed Links
-
-- Web Application
-    - [Link](https://cred-t8.netlify.app/)
-- Android APK
-    - [Link](https://drive.google.com/file/d/1oxP7BQGEgGeFnLBS8aiM3V_DLA0UQnCK/view?usp=sharing)
-- Demo Account
-    - email: ```cadel21249@vreagles.com```
-    - password: ```Temp@123```
-
----
-
 ### Developed By
 
- - [Abhishek Ranjan](https://www.github.com/arabhiar)
- - [Narendra Manglani](https://github.com/ishuu7)
+ - [K YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
